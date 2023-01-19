@@ -1,0 +1,11 @@
+{
+  "name": "watch_run_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "node watch_run.js"
+  },
+  "author": "WangLaoQi (https://github.com/Lao-Qi)",
+  "license": "MIT"
+}
